@@ -7,16 +7,19 @@ We believe that if we can find signals in our data set that shows increased vide
 https://games.jmir.org/2021/2/e26575
 
 •	This study looks at symptoms of depression and anxiety and whether playing video games can increase them or decrease them, so similar to what we hope to do it shows an impact of video games and mental health. 
+
 •	However we hope to take data to see how video games effect normal people, and we also want to look at more issues than just depression and anxiety. 
 
  https://direct.mit.edu/dint/article/3/4/606/107672/A-Multinational-Data-Set-of-Game-Players-Behaviors
  
 •	This study is similar in that it interacts with data between video games and some factor. The method and the people we polled are very similar 
+
 •	However this factor is different than what we hope to analyze, this data source looks at how video game players react to covid 19 concern. Which isn’t something that we are analyzing.
 
 https://www.nih.gov/news-events/news-releases/video-gaming-may-be-associated-better-cognitive-performance-children
 
 •	This study is similar to the previous in that it is analyzing the effects of video games on something using a data set. 
+
 •	However it is different from what we hope to do in that it only touches on children and how it effects cognitive abilities which isn’t something we purely hope to measure. 
 
 https://osf.io/vnbxk/
