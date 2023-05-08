@@ -1,0 +1,6 @@
+library(stringr)
+library(dplyr)
+df <- read.csv("GamingStudy_data.csv")
+filtered_df <- filter(df, Game == "League of Legends", !is.na(League))
+filtered_df <- head(filtered_df, n = 30)
+print(filtered_df)
